@@ -1,0 +1,7 @@
+﻿  less.cpp
+c:\users\macs\source\repos\cmdapp\cmdapp\less.cpp(109): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\macs\source\repos\cmdapp\cmdapp\less.cpp(116): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\macs\source\repos\cmdapp\cmdapp\less.cpp(118): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+c:\users\macs\source\repos\cmdapp\cmdapp\less.cpp(115): warning C4101: num: неиспользованная локальная переменная
+c:\users\macs\source\repos\cmdapp\cmdapp\less.cpp(266): warning C4305: инициализация: усечение из "double" в "float"
+  CmdApp.vcxproj -> C:\Users\Macs\source\repos\CmdApp\Debug\CmdApp.exe
